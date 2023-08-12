@@ -1,4 +1,5 @@
-<h1><center>Marketing Analytics For E-Commerce Market Place Company
+<h1><center>Marketing Analytics For E-Commerce Market Place Company</h1>
+<h2>Python-Foundation-End-to-End-Case-Study-E-Commerce-Analytics-Project</h2>
 <h2><u>Business Context:</h2>
 <h4>The client is one of the leading online market place in India and would like partner with Analytixlabs.<br>
     
